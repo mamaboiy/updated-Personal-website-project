@@ -1,0 +1,165 @@
+
+/* .maincont{
+  background-color:#A5DD9B;
+} */
+.menubg{
+  background-color:#96d18b ;
+  
+}
+
+.navbar{
+  width:100%;
+  background-color:#A5DD9B;
+  
+}
+
+.nav-link{
+  color: black;
+}
+.nav-link:hover{
+  text-decoration-color: black;
+  background-color: #96d18b;
+  width: 100%;
+  border-radius: 10px;
+  text-align: center;
+  color: #000;
+  font-size: larger;
+}
+.leftnav{
+  float: right;
+}
+
+.navbar-toggler{
+  background-color: #000;
+  
+}
+#pic{
+  border-radius:20px;
+}
+
+.imgbg{
+  background-color: #C5EBAA;
+}
+
+.resbg{
+  width:100%;
+  background-color:#A5DD9B;
+}
+
+.fw{
+  text-align: left;
+}
+
+.box{
+  border-radius: 20px;
+  background: #C5EBAA;
+}
+
+p.fw{
+  font-family:sans-serif;
+}
+
+div>.leftcol{
+  background-color:#A5DD9B;
+}
+
+div>.leftcont{
+  background-color:#C5EBAA;
+}
+.card-body{
+  background: #C5EBAA;
+}
+p.card-text{
+  text-align: left;
+  padding-top: 10px;
+}
+
+.icons{
+  padding: 10px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:#A5DD9B;
+
+}
+.three-box{
+  border-radius: 20px;
+  background: #A5DD9B;
+}
+
+.projectbg{
+  background-color: #C5EBAA;
+}
+
+.project-assignment{
+  margin-top:2px;
+}
+
+ .images{
+  width: 100%;
+ }
+.col:hover{
+  padding: 1px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+p.formhead{
+  font-size: 30px;
+}
+
+.container{
+  border-radius: 20px;
+}
+
+.maincont{
+  background-color: #A5DD9B;
+}
+.row{
+  border-radius: 20px;
+  margin-top: 20px;
+}
+.form-label{
+  font-weight:bold;
+}
+.foter{
+  margin-top: 2px;
+  background: #C5EBAA;
+}
+.s-media{
+  width: 3rem;
+  color: orange;
+}
+
+.icon1{
+  width: 3rem;
+  color: rgb(25, 108, 218);
+}
+.icon2{
+  width: 3rem;
+  color: green;
+}
+.icon3{
+  width: 3rem;
+  color:rgba(0, 54, 247, 0.837);
+}
+.icon4{
+  width: 3rem;
+  color:green;
+}
+.icon5{
+  width: 3rem;
+  color:green;
+}
+.sociallink{
+  text-decoration: none;
+}
+.contact{
+  background-color: #96d18b;
+  
+}
+.list-group-item:hover {
+  margin: 2px;
+  background-color:#C5EBAA;
+}
